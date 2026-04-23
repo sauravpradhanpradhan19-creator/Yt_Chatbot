@@ -3,6 +3,13 @@
 Ask questions about any YouTube video using its transcript. Built with LangChain, Groq, HuggingFace Embeddings, FAISS, and Streamlit.
 
 ---
+---
+
+## 🎥 Demo Video
+
+<video src="demo.mp4" controls width="700"></video>
+
+---
 
 ## 🏗️ Architecture
 
