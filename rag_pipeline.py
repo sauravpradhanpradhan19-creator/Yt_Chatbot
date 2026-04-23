@@ -14,7 +14,7 @@ from langchain_groq import ChatGroq
 from langchain_core.prompts import PromptTemplate
 from langchain_core.runnables import RunnablePassthrough, RunnableLambda
 from langchain_core.output_parsers import StrOutputParser
-from langchain.schema import Document
+from langchain_core.documents import Document
 
 from youtube_transcript_api import YouTubeTranscriptApi
 import yt_dlp
