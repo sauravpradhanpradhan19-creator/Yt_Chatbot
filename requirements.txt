@@ -8,5 +8,5 @@ langchain-text-splitters>=0.2.0
 sentence-transformers>=2.7.0
 faiss-cpu>=1.7.4
 youtube-transcript-api>=0.6.2
-pytube>=15.0.0
 yt-dlp>=2024.5.1
+requests>=2.31.0   # ← this was added
